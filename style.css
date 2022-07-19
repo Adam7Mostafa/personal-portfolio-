@@ -21,8 +21,11 @@
 }
 }
 
-body {
+html {
   scroll-behavior: smooth;
+}
+
+body {
   background: var(--main-bg-color);
   color: var(--main-color);
 }
